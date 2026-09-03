@@ -1,0 +1,25 @@
+# f=open("student.csv","r")
+# print(f.read())
+# # f.seek(0)
+# # print(f.read())
+# print("from the 5 th character")
+# f.seek(5)
+# # print(f.read())
+# print(f.readline())
+# print(f.readlines())
+# print(f.readable())
+# print(f.writable())
+# file=open("student.csv","r+")
+# # file.write("0,Adri\n")#it will rewrite the values
+# # print(file.read())
+# values=["scope\n","India\n","Good\n"]
+# file.writelines(values)
+# file.seek(0)
+# file=open("scope.csv","w+")
+# values=["scope\n","India\n","Good\n"]
+# file.writelines(values)
+# file.seek(0)
+# print(file.read())
+file=open("scope.csv","a")
+values=["Trivandrum\n","Nagercoil\n","Thampanoor\n"]
+file.writelines(values)

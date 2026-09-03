@@ -1,8 +1,12 @@
+#upper case decorator_a decorator that converts returned string from  a function into upper case.
+
+
 def decor(upper):
     def rec_fun(string):
         print(f"String before convertng into uppercase, {string}")
-        upper(string)
         print(f"String converted to uppercase.")
+        upper(string)
+        print("Suucess...")
     return rec_fun
 
 @decor

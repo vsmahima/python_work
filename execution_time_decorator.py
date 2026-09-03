@@ -1,3 +1,6 @@
+#Execution time decorator-Create a decorator that that prints function started before
+#a function run and fuction stop after it finishes.
+
 def decor(sum_digit):
     def execution_time(num1,num2):
         print("Function started...")
