@@ -1,4 +1,4 @@
-#Menu driven program (repeat until user exist)
+#Menu driven program (repeat until user exit)
 print("""MENU
     1.Add
     2.Subtract

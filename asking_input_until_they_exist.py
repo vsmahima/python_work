@@ -1,4 +1,4 @@
-#Keep asking user input until they exist
+#Keep asking user input until they exit
 cart = {}
 #print(type(cart))
 

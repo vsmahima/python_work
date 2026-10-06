@@ -1,4 +1,4 @@
-#upper case decorator_a decorator that converts returned string from  a function into upper case.
+ #upper case decorator_a decorator that converts returned string from  a function into upper case.
 
 
 def decor(upper):

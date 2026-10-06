@@ -1,0 +1,27 @@
+26:09:03 17:52:10:Database connection<sqlite3.Connection object at 0x000002846095EA70>
+26:09:03 17:52:55:Database connected successfully<sqlite3.Connection object at 0x0000018EED77EA70>
+26:09:03 22:27:02:Database connected successfully<sqlite3.Connection object at 0x000001BD464DEA70>
+26:09:03 22:27:02:Table crated<built-in method execute of sqlite3.Cursor object at 0x000001BD464C79C0>
+26:09:03 22:32:20:Database connected successfully<sqlite3.Connection object at 0x00000223BB1EEA70>
+26:09:03 22:32:20:Table crated<built-in method execute of sqlite3.Cursor object at 0x00000223BB1D7940>
+26:09:03 22:32:20:I/O operation on closed file.
+26:09:03 22:33:20:Database connected successfully<sqlite3.Connection object at 0x00000234BD6DEA70>
+26:09:03 22:33:20:Table crated<built-in method execute of sqlite3.Cursor object at 0x00000234BD6C7940>
+26:09:03 22:33:20:UNIQUE constraint failed: employee.emp_id
+26:09:03 22:41:03:Database connected successfully<sqlite3.Connection object at 0x000002025DB1EA70>
+26:09:03 22:41:03:Table crated<built-in method execute of sqlite3.Cursor object at 0x000002025DB07940>
+26:09:03 22:41:03:Data from the file inserted succsefully
+26:09:03 22:51:13:Database connected successfully<sqlite3.Connection object at 0x00000268BD14EA70>
+26:09:03 22:51:13:execute() argument 1 must be str, not tuple
+26:09:03 23:00:15:Database connected successfully<sqlite3.Connection object at 0x00000230C61DEA70>
+26:09:03 23:00:15:Database activity insert/update/delete done succefully
+26:09:03 23:02:16:Database connected successfully<sqlite3.Connection object at 0x000001E97314EA70>
+26:09:03 23:02:16:Database activity insert/update/delete done succefully
+26:09:03 23:03:25:Database connected successfully<sqlite3.Connection object at 0x000001918150EA70>
+26:09:03 23:03:25:Incorrect number of bindings supplied. The current statement uses 1, and there are 3 supplied.
+26:09:03 23:10:30:Database connected successfully<sqlite3.Connection object at 0x000002882F5EEA70>
+26:09:03 23:10:30:Database activity insert/update/delete done succefully
+26:09:03 23:23:18:Database connected successfully<sqlite3.Connection object at 0x0000027BAA7DEB60>
+26:09:03 23:23:33:Database connected successfully<sqlite3.Connection object at 0x0000026C1DFFEB60>
+26:09:03 23:48:23:Database connected successfully<sqlite3.Connection object at 0x000001E2187AEB60>
+26:09:03 23:48:43:Database connected successfully<sqlite3.Connection object at 0x00000208EBA9EB60>
